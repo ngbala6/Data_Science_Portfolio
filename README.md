@@ -6,6 +6,6 @@ This Portfolio is Created to understand my projects easily
 
 ### Machine Learning
 
-* Salary Prediction : * bala
+* **Salary Prediction :** This Project helps to make estimation of Salary based on their Experience 
 
 
